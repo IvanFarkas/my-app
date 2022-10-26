@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+[Deploy a Server-Side Rendered Next.js application on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/36375ad5-9091-4960-97dd-e82eb516f2c3/en-US)
+
 First, run the development server:
 
 ```bash
